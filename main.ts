@@ -15,3 +15,4 @@ input.onButtonPressed(Button.B, function () {
     basic.showArrow(ArrowNames.East)
 })
 radio.setGroup(1)
+basic.showIcon(IconNames.Triangle)
